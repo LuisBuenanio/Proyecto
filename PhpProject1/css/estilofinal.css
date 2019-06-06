@@ -1,0 +1,45 @@
+*{margin: auto; padding 0; font-family: arial;}
+body {background-color: #5050b4;}
+
+/*Cabecera*/
+header {background-color: #696d73;}
+header h1 {text-align: center; color:navy; padding: 3.5 em; font-size: 4.5em; }
+header h2 {text-align: center; color #5050b4; padding: 0.5 em; font-size: 1.7 em; }
+
+
+/* nav*/
+
+nav {background-color: #005853; min-height: 2em;}
+nav p{display: inline;}
+nav a: link, nav a:visited{text-decoration: none; color: #ebeb2e; background-color: #ebeb2e;}
+nav a:hover, nav a:active{text-decoration: none; color: #ebeb2e; background-color: #0404f4; }
+
+
+/*parte de seccion*/
+
+section{width: 75%; background-color: #ebeb2e;float:left;}
+section h1{text-align-last: center ; padding 0.5em; font-size: 1.2em; color: #5454de;}
+section h2{text-aling: center; padding 1.2em; font-size: 1.0em; color: #2b6db4;}
+section h3{text-aling: center; padding 1.5em; font-size: 2.0em; color: #0303a7;}
+
+
+/**article*/
+
+article {margin: 0.5em 3em; padding: 0.5em 3em; background-color: white; border: 3px double aqua;}
+article p {text-align:justify;}
+
+
+/*Configure aside*/
+aside{width: 25%; float: left;}
+#anuncio1{margin: 20px ; padding: 10px ;border 2px solid blue; background-color: grey;}
+#anuncio1 h1 {text-align: center; font-size: 1.4 em; color: navy; padding: 0.7em;}
+#anuncio1 h2 {text-align: center; font-size: 1.0 em; color: #a83c27; padding: 1.0em;}
+#anuncio1 h3 {text-align: center; font-size: 1.0 em; color: #a83c27; padding: 1.0em;}
+#anuncio1 p {font-size: 0.9 em; padding: 1.4em 2em;}
+
+/*footer*/
+
+footer{clear: both; background-color: #c5dacf;}
+footer h1{text-align: center; font-size: 1.5em;color:#0404a2;padding: 0.7em;}
+footer h2{text-align: center; font-size: 1em; padding: 0.4em;}
+  footer a{text-decoration: none;color: green;}

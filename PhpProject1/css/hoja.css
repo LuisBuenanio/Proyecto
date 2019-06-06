@@ -1,0 +1,9 @@
+body {background: white; color: black; font-size:15px;}
+h1 {background: blue; font-size: 30px;}
+p {background: yellow;}
+strong {background: red;}
+em {background: red; color: yellow;}
+h1 {color: blue;}
+h2 {color: red;}
+p {font-size: 1.4em; color: green;}
+p {font-size: 1.4em;}
